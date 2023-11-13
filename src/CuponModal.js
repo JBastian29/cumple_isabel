@@ -30,7 +30,7 @@ function CuponModal({ isOpen, closeModal }) {
     >
       <div style={modalContentStyle}>
         <img
-          src="/cupon.jpg"  // Ajusta la ruta según la ubicación de tu imagen o GIF
+          src="./cupon.jpg"  // Ajusta la ruta según la ubicación de tu imagen o GIF
           alt="Cupón"
           style={{ width: '100%', maxWidth: '300px', height: 'auto' }}
         />

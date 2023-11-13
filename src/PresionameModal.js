@@ -30,7 +30,7 @@ function PresionameModal({ isOpen, closeModal }) {
     >
       <div style={modalContentStyle}>
         <img
-          src="/tu-gif.gif"  // Ajusta la ruta según la ubicación de tu GIF
+          src="./tu-gif.gif"  // Ajusta la ruta según la ubicación de tu GIF
           alt="GIF"
           style={{ width: '100%', maxWidth: '300px', height: 'auto' }}
         />

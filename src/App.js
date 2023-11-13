@@ -7,7 +7,7 @@ function App() {
   const [isPresionameModalOpen, setPresionameModalOpen] = useState(false);
 
   const backgroundImageStyle = {
-    backgroundImage: 'url("/harry-potter.jpg")',
+    backgroundImage: 'url("./harry-potter.jpg")',
     backgroundSize: 'cover',
     height: '100vh',
     display: 'flex',
